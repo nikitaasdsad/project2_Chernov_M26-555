@@ -62,5 +62,5 @@ make run
 
 
 
-\[!\[asciicast](https://asciinema.org/a/WoEojkhlePwlkppT.svg)](https://asciinema.org/a/WoEojkhlePwlkppT)
+\[!\[asciicast](https://asciinema.org/a/WoEojkhlePwlkppT.png)](https://asciinema.org/a/WoEojkhlePwlkppT)
 
