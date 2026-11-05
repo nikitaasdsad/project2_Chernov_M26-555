@@ -60,7 +60,11 @@ make run
 
 В записи ниже показан полный сценарий работы: запуск, создание таблицы, добавление, чтение, обновление, удаление записей и удаление самой таблицы.
 
+https://asciinema.org/a/WoEojkhlePwlkppT
 
+<a href="https://asciinema.org/a/WoEojkhlePwlkppT" target="\_blank">
 
-\[!\[Демонстрация работы](https://asciinema.org/a/WoEojkhlePwlkppT.svg?)](https://asciinema.org/a/WoEojkhlePwlkppT)
+&#x20; <img src="https://asciinema.org/a/WoEojkhlePwlkppT.png" />
+
+</a>
 
