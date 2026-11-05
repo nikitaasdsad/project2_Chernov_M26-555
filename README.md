@@ -62,5 +62,9 @@ make run
 
 
 
-https://asciinema.org/a/WoEojkhlePwlkppT
+<a href="https://asciinema.org/a/WoEojkhlePwlkppT" target="\_blank">
+
+&#x20; <img src="https://asciinema.org/a/WoEojkhlePwlkppT.svg" />
+
+</a>
 
